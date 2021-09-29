@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#757474</color>
+    <color name="text_color_primary">#222222</color>
+    <color name="text_color_primary2">#A38585</color>
+
+
+    <color name="primaryColor_default">#37474F</color>
+    <color name="primaryColorDark_default">#263238</color>
+    <color name="primaryAccent_default">#607D8B</color>
+
+
+    <color name="primaryColor_orange">#D84315</color>
+    <color name="primaryColorDark_orange">#BF360C</color>
+    <color name="primaryAccent_orange">#FF5722</color>
+
+    <color name="primaryColor_brown">#4E342E</color>
+    <color name="primaryColorDark_brown">#3E2723</color>
+    <color name="primaryAccent_brown">#795548</color>
+
+    <color name="primaryColor_yellow">#FBC02D</color>
+    <color name="primaryColorDark_yellow">#F9A825</color>
+    <color name="primaryAccent_yellow">#FFEB3B</color>
+
+    <color name="primaryColor_green">#2E7D32</color>
+    <color name="primaryColorDark_green">#1B5E20</color>
+    <color name="primaryAccent_green">#4CAF50</color>
+
+    <color name="primaryColor_blue">#1565C0</color>
+    <color name="primaryColorDark_blue">#0D47A1</color>
+    <color name="primaryAccent_blue">#2196F3</color>
+
+    <color name="primaryColor_purple">#6A1B9A</color>
+    <color name="primaryColorDark_purple">#4A148C</color>
+    <color name="primaryAccent_purple">#8E24AA</color>
+</resources>

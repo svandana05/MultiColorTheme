@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultiThemeDemo</string>
+    <string name="prefs_theme_key">app_theme</string>
+</resources>
